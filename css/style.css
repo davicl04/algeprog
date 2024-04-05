@@ -1,0 +1,17 @@
+p {
+    background-color: tomato;
+    color: blue;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    margin-right: 40px;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: oblique;
+    font-weight: lighters;
+}
